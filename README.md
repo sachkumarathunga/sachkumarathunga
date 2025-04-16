@@ -16,8 +16,8 @@
 
 - 📫 How to reach me **sachinikumarathunga99@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAF2N802sUc/LHMDKyrEUvV85TfhJDmK5A/edit?utm_content=DAF2N802sUc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAF2N802sUc/LHMDKyrEUvV85TfhJDmK5A/edit?utm_content=DAF2N802sUc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
+- 📄 Know about my experiences https://sachkumarathunga.github.io/pearl-white-wave-portfolio/
+- 
 - ⚡ Fun fact **🎸 **Fun Fact:** When I'm not immersed in coding, you can find me strumming on my guitar, experimenting with different tunes and styles. Music is not just a hobby; it's my creative escape! Feel free to explore my repositories and don't hesitate to reach out for collaboration or just to chat about coding, music, or anything interesting! 🤝**
 
 <h3 align="left">Connect with me:</h3>
